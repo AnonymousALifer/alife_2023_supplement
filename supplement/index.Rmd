@@ -1,17 +1,22 @@
 ---
-title: "Replaying the evolution of learning"
+title: "Supplement for: \"Historical contingency in the evolution of intelligence: Potentiating mutations facilitate the evolution of associative learning in digital organisms\""
 author: "Anonymous"
 date: "`r Sys.Date()`"
 output: bookdown::gitbook
 documentclass: book
-bibliography: ["book.bib", "packages.bib"]
+bibliography: []
 biblio-style: apalike
 nocite: '@*'
 link-citations: yes
-github-repo: FergusonAJ/replaying_evolution_of_learning
-description: "WIP supplemental material"
+github-repo: AnonymousALifer/alife_2023_supplement
+description: "Supplemental material for our 2023 ALife submission"
 ---
 
 # Introduction
 
-Based on Alex Lalejini's wonderful example: <https://github.com/amlalejini/auto-deploying-bookdown-example>.
+Here we show all additional graphs that would not fit in the paper.
+Please use the navigation on the left to view the different sections.
+
+For data, source code, and analyses, please refer to the GitHub repo: <https://github.com/AnonymousALifer/alife_2023_supplement>
+
+This bookdown supplement is based on Alex Lalejini's example: <https://github.com/amlalejini/auto-deploying-bookdown-example>.
