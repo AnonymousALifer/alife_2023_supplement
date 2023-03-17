@@ -10,3 +10,6 @@
 - `./random_seed.txt` - The random seed to use. Changed by `./process_all.sh`
 - `./run_job.sb` - The actual anlysis executable. 
 - `./scrape_trace.sh` - Converts a full organism output file into a usable execution trace. 
+
+### Required files
+- `./shared_files/` - Contains all the files needed to run the analyses.
